@@ -20,6 +20,8 @@ Once this repo has been created on your GitHub, you can click on the button to '
 
 Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
 
-Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
+Update this README and make any other initial changes or 🌱 files, etc. To help you do that, here's a [Markdown Guide](https://www.notion.so/codefinity/MarkDown-Guide-3c7aecdc1327437e9785cb9c1d277f42)
+ 
+Go ahead and do your usual `git` steps, etc. etc. etc.
 
 **Note:** This is a template repository, no need to 'fork it. Just click 'Use This Template.'
