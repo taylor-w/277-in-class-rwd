@@ -1,4 +1,4 @@
-# SWIC JS Students Project Boilerplate Starter Kit
+# JS Boilerplate Starter
 
 ## Overview
 
