@@ -12,16 +12,15 @@ In addition to a '.gitignore' and some VS Code specific extensions and settings,
 
 ## Get Started
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-97de62a546f943fbbc7a246b4785a343)
+## Get Started
 
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
+**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-for-JS-02a4e9f4a30043d3a8e7d109be3448f4)
 
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to get all of the goodies. If you see any _errors_ (warnings are 🙆🏾‍♂️) on Windows, you may have to do `npm install`.
+After establishing your directory structure on your local machine, (e.g. '~/Code'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
+
+Once this repo has been created on your GitHub, you can click on the button to `clone` it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to build out 'node_modules'. This will provide you with some helpful tooling and linting.  
 
 Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
 
 Update this README and make any other initial changes or 🌱 files, etc. To help you do that, here's a [Markdown Guide](https://www.notion.so/codefinity/MarkDown-Guide-3c7aecdc1327437e9785cb9c1d277f42)
  
-Go ahead and do your usual `git` steps, etc. etc. etc.
-
-**Note:** This is a template repository, no need to 'fork it. Just click 'Use This Template.'
