@@ -12,8 +12,6 @@ In addition to a '.gitignore' and some VS Code specific extensions and settings,
 
 ## Get Started
 
-## Get Started
-
 **First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-for-JS-02a4e9f4a30043d3a8e7d109be3448f4)
 
 After establishing your directory structure on your local machine, (e.g. '~/Code'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
