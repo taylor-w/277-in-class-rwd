@@ -1,4 +1,4 @@
-# JS Boilerplate Starter
+# Front End Starter
 
 ## Overview
 
