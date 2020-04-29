@@ -8,7 +8,7 @@ In addition to a '.gitignore' and some VS Code specific extensions and settings,
 
 1. [ESLint](eslint.org)
 2. [Stylelint](stylelint.io)
-3. [Standard](https://standardjs.com/) for JS Style
+3. [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
 
 ## Get Started
 
