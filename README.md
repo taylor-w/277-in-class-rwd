@@ -2,12 +2,13 @@
 
 ## Overview
 
-This template repository contains several opinionated, 'starter' files and settings to help SWIC JS students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+This template repository contains several opinionated, 'starter' files and settings to help students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
 
 In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
 
 1. [ESLint](eslint.org)
 2. [Stylelint](stylelint.io)
+3. [Standard](https://standardjs.com/) for JS Style
 
 ## Get Started
 
@@ -15,9 +16,8 @@ In addition to a '.gitignore' and some VS Code specific extensions and settings,
 
 After establishing your directory structure on your local machine, (e.g. '~/Code'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
 
-Once this repo has been created on your GitHub, you can click on the button to `clone` it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to build out 'node_modules'. This will provide you with some helpful tooling and linting.  
+Once this repo has been created on your GitHub, you can click on the button to `clone` it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to build out 'node_modules'. This will provide you with some helpful tooling and linting.
 
 Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
 
 Update this README and make any other initial changes or 🌱 files, etc. To help you do that, here's a [Markdown Guide](https://www.notion.so/codefinity/MarkDown-Guide-3c7aecdc1327437e9785cb9c1d277f42)
- 
