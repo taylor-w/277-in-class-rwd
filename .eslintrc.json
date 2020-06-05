@@ -16,7 +16,7 @@
         "sourceType": "module"
     },
     "rules": {
-        "array-callback-return": "error",
+        "array-callback-return": "warn",
         "no-unused-vars": "warn"
     }
 }
