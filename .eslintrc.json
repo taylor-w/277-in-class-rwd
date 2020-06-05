@@ -2,6 +2,7 @@
     "env": {
         "browser": true,
         "es6": true,
+        "jest/globals": true,
         "node": true
     },
     "extends": [
@@ -15,8 +16,14 @@
         "ecmaVersion": 2018,
         "sourceType": "module"
     },
+    "plugins": ["jest"],
     "rules": {
         "array-callback-return": "warn",
+        "jest/no-disabled-tests": "warn",
+        "jest/no-focused-tests": "error",
+        "jest/no-identical-title": "error",
+        "jest/prefer-to-have-length": "warn",
+        "jest/valid-expect": "error",
         "no-unused-vars": "warn"
     }
 }
