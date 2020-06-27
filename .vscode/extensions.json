@@ -5,7 +5,6 @@
   "recommendations": [
     "2gua.rainbow-brackets",
     "aaron-bond.better-comments",
-    "alefragnani.bookmarks",
     "asvetliakov.snapshot-tools",
     "capaj.vscode-standardjs-snippets",
     "chenxsan.vscode-standardjs",
@@ -13,8 +12,6 @@
     "codezombiech.gitignore",
     "coenraads.bracket-pair-colorizer-2",
     "dbaeumer.vscode-eslint",
-    "donjayamanne.githistory",
-    "eamodio.gitlens",
     "ecmel.vscode-html-css",
     "formulahendry.auto-rename-tag",
     "kisstkondoros.vscode-gutter-preview",
@@ -33,7 +30,6 @@
     "streetsidesoftware.code-spell-checker",
     "stylelint.vscode-stylelint",
     "tyriar.sort-lines",
-    "visualstudioexptteam.vscodeintellicode",
-    "wix.vscode-import-cost"
+    "visualstudioexptteam.vscodeintellicode"
   ]
 }
