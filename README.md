@@ -12,6 +12,8 @@ In addition to a '.gitignore' and some VS Code specific extensions and settings,
 
 Testing with [Jest](https://jestjs.io/docs/en/getting-started) is also included along with appropriate extensions.
 
+There is a 'client' directory 📁 and a 'server' directory 📁. These represent the breadth of what it means to work as a 'full-stack' developer. Just think of these as 2 separate projects, for the time being.
+
 ## Get Started
 
 **First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-for-JS-02a4e9f4a30043d3a8e7d109be3448f4)
