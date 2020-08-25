@@ -23,7 +23,6 @@
   "javascript.validate.enable": false,
   "standard.autoFixOnSave": true,
   "stylelint.enable": true,
-  "standard.run": "onType",
   "terminal.integrated.fontFamily": "'Inconsolata', monospace",
   "workbench.colorTheme": "Material Theme",
   "workbench.enableExperiments": false,
