@@ -21,7 +21,6 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "javascript.validate.enable": false,
-  "standard.autoFixOnSave": true,
   "stylelint.enable": true,
   "terminal.integrated.fontFamily": "'Inconsolata', monospace",
   "workbench.colorTheme": "Material Theme",
