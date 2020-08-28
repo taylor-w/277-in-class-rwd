@@ -4,7 +4,7 @@
 
 This is purely for practicing [Markdown](https://www.notion.so/codefinity/MarkDown-Guide-3c7aecdc1327437e9785cb9c1d277f42).
 
-![Randomly Generated:](https://source.unsplash.com/random/300x300)
+![Randomly Generated:](https://source.unsplash.com/random/150x150)
 
 ## Skills
 
@@ -19,6 +19,7 @@ This is purely for practicing [Markdown](https://www.notion.so/codefinity/MarkDo
 - C# / .NET / ASP
 - Python
 - VBA
+- SQL
 
 ## Read Me Continued
 1. [ESLint](eslint.org)
