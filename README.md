@@ -1,11 +1,26 @@
-# Front End Starter
+# Taylor Wood
 
 ## Overview
 
-This template repository contains several opinionated, 'starter' files and settings to help students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+This is purely for practicing [Markdown](https://www.notion.so/codefinity/MarkDown-Guide-3c7aecdc1327437e9785cb9c1d277f42).
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+![Randomly Generated:](https://source.unsplash.com/random/300x300)
 
+## Skills
+
+- VSC experience with [github](https://github.com) and [bitbucket](https://www.bitbucket.org)
+- Debugging and Console Logging
+- Fullstack [M.E.R.N.](https://www.geeksforgeeks.org/mern-stack/) Development Experience Specializing in Frontend
+- **Excellent** Verbal and Written Communicator
+
+## Language
+- Javascript
+- CSS / HTML / JSON
+- C# / .NET / ASP
+- Python
+- VBA
+
+## Read Me Continued
 1. [ESLint](eslint.org)
 2. [Stylelint](stylelint.io)
 3. [![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
