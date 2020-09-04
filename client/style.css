@@ -113,7 +113,10 @@ nav > a:visited {
 }
 
 .is-expanded {
-  height: 342px;
+  height: 50vh;
+  opacity: 1;
+  transform: scaleY(1);
+  transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 0.4s;
 }
 
 #cta {
