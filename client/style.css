@@ -2,6 +2,7 @@
   --primary-color: #3db36b;
   --secondary-color: #6d98ff;
   --warning-color: #e2892c;
+  --danger-color: #ff635d;
 }
 
 body {
@@ -151,6 +152,14 @@ nav > a:visited {
   opacity: 1;
   transform: scaleY(1);
   transition: all cubic-bezier(0.075, 0.82, 0.165, 1) 0.4s;
+}
+
+.is-error {
+  border: solid thin var(--danger-color);
+}
+
+.is-success {
+  border: solid thin var(--primary-color);
 }
 
 #cta {
