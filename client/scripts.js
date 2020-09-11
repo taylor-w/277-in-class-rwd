@@ -1,4 +1,4 @@
-import * as val from "./validation.mjs"
+import {validate} from "./validation.mjs"
 
 /*nav*/
 const nav = document.querySelector('nav')
@@ -13,6 +13,6 @@ const inputs = document.querySelectorAll('input')
 
 inputs.forEach(input => {
   input.addEventListener('blur', (event) => {
-    val.validate();
+    validate();
   })
 })
