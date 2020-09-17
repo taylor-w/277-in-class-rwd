@@ -1,4 +1,4 @@
-import { validate } from "./validation.mjs";
+import { validate } from "./lib/form/validation.js";
 
 /*nav*/
 const nav = document.querySelector("nav");
