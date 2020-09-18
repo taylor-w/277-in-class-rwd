@@ -1,3 +1,4 @@
+/*form inputs */
 const inputs = document.querySelectorAll("input");
 
 export default () => {
