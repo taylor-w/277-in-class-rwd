@@ -11,6 +11,7 @@ const regularFields = [...fields].filter(
 );
 
 export default () => {
+  console.log(form);
   console.log(fields);
   console.log(regularFields);
 };
